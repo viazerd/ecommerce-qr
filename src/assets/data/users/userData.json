@@ -1,0 +1,26 @@
+[
+    {
+        "_id":1,
+        "u_name":"Sandeep Vyas",
+        "u_email":"sandeepvyas.34@gmail.com",
+        "u_pswd":"Testing!2"
+    },
+    {
+        "_id":2,
+        "u_name":"Test User",
+        "u_email":"sandeepvy2@gmail.com",
+        "u_pswd":"Testing!2"
+    },
+    {
+        "_id":3,
+        "u_name":"Beta User",
+        "u_email":"sandeepvyas@gmail.com",
+        "u_pswd":"Testing!2"
+    },
+    {
+        "_id":4,
+        "u_name":"User",
+        "u_email":"sandeepvyas.34@gmail.com",
+        "u_pswd":"Testing!2"
+    }
+]
