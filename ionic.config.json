@@ -1,0 +1,7 @@
+{
+  "name": "ecommerce-qr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
